@@ -1,0 +1,201 @@
+VERSION=1.0
+N=71   L=128  
+I=0    W=SENT-END            
+I=1    W=WILLY               
+I=2    W=!NULL               
+I=3    W=YOGA                
+I=4    W=ERIC                
+I=5    W=JOSHUA              
+I=6    W=VICKY               
+I=7    W=SETYO               
+I=8    W=KIRANA              
+I=9    W=CLARA               
+I=10   W=KEVIN               
+I=11   W=ID                  
+I=12   W=ADD                 
+I=13   W=AYU                 
+I=14   W=!NULL               
+I=15   W=DESSI               
+I=16   W=JAMES               
+I=17   W=JESSICA             
+I=18   W=BRAM                
+I=19   W=WINDY               
+I=20   W=SIGIT               
+I=21   W=KANYA               
+I=22   W=AHMAD               
+I=23   W=INVITE              
+I=24   W=FAMILY              
+I=25   W=FOOTBALL            
+I=26   W=BASKETBALL          
+I=27   W=ITB                 
+I=28   W=CAPTCHA             
+I=29   W=HIGHSCHOOL          
+I=30   W=GROUP               
+I=31   W=CREATE              
+I=32   W=!NULL               
+I=33   W=CHAT                
+I=34   W=MESSENGER           
+I=35   W=EXIT                
+I=36   W=!NULL               
+I=37   W=START               
+I=38   W=MESSAGE             
+I=39   W=VOICE               
+I=40   W=LOCATION            
+I=41   W=VIDEO               
+I=42   W=PHOTO               
+I=43   W=STICKER             
+I=44   W=PLEASE              
+I=45   W=!NULL               
+I=46   W=SHY                 
+I=47   W=LOVE                
+I=48   W=CRY                 
+I=49   W=MAD                 
+I=50   W=SAD                 
+I=51   W=SMILE               
+I=52   W=SEND                
+I=53   W=AYU                 
+I=54   W=DESSI               
+I=55   W=JAMES               
+I=56   W=JESSICA             
+I=57   W=BRAM                
+I=58   W=WINDY               
+I=59   W=SIGIT               
+I=60   W=KANYA               
+I=61   W=AHMAD               
+I=62   W=BLOCK               
+I=63   W=!NULL               
+I=64   W=CHAT                
+I=65   W=DELETE              
+I=66   W=CALL                
+I=67   W=CHAT                
+I=68   W=SENT-START          
+I=69   W=!NULL               
+I=70   W=!NULL               
+J=0     S=2    E=0    
+J=1     S=14   E=0    
+J=2     S=11   E=1    
+J=3     S=1    E=2    
+J=4     S=3    E=2    
+J=5     S=4    E=2    
+J=6     S=5    E=2    
+J=7     S=6    E=2    
+J=8     S=7    E=2    
+J=9     S=8    E=2    
+J=10    S=9    E=2    
+J=11    S=10   E=2    
+J=12    S=24   E=2    
+J=13    S=25   E=2    
+J=14    S=26   E=2    
+J=15    S=27   E=2    
+J=16    S=28   E=2    
+J=17    S=29   E=2    
+J=18    S=34   E=2    
+J=19    S=38   E=2    
+J=20    S=40   E=2    
+J=21    S=41   E=2    
+J=22    S=42   E=2    
+J=23    S=43   E=2    
+J=24    S=53   E=2    
+J=25    S=54   E=2    
+J=26    S=55   E=2    
+J=27    S=56   E=2    
+J=28    S=57   E=2    
+J=29    S=58   E=2    
+J=30    S=59   E=2    
+J=31    S=60   E=2    
+J=32    S=61   E=2    
+J=33    S=11   E=3    
+J=34    S=11   E=4    
+J=35    S=11   E=5    
+J=36    S=11   E=6    
+J=37    S=11   E=7    
+J=38    S=11   E=8    
+J=39    S=11   E=9    
+J=40    S=11   E=10   
+J=41    S=12   E=11   
+J=42    S=68   E=12   
+J=43    S=14   E=13   
+J=44    S=23   E=13   
+J=45    S=13   E=14   
+J=46    S=15   E=14   
+J=47    S=16   E=14   
+J=48    S=17   E=14   
+J=49    S=18   E=14   
+J=50    S=19   E=14   
+J=51    S=20   E=14   
+J=52    S=21   E=14   
+J=53    S=22   E=14   
+J=54    S=14   E=15   
+J=55    S=23   E=15   
+J=56    S=14   E=16   
+J=57    S=23   E=16   
+J=58    S=14   E=17   
+J=59    S=23   E=17   
+J=60    S=14   E=18   
+J=61    S=23   E=18   
+J=62    S=14   E=19   
+J=63    S=23   E=19   
+J=64    S=14   E=20   
+J=65    S=23   E=20   
+J=66    S=14   E=21   
+J=67    S=23   E=21   
+J=68    S=14   E=22   
+J=69    S=23   E=22   
+J=70    S=68   E=23   
+J=71    S=30   E=24   
+J=72    S=30   E=25   
+J=73    S=30   E=26   
+J=74    S=30   E=27   
+J=75    S=30   E=28   
+J=76    S=30   E=29   
+J=77    S=32   E=30   
+J=78    S=68   E=31   
+J=79    S=31   E=32   
+J=80    S=33   E=32   
+J=81    S=68   E=33   
+J=82    S=36   E=34   
+J=83    S=68   E=35   
+J=84    S=35   E=36   
+J=85    S=37   E=36   
+J=86    S=68   E=37   
+J=87    S=39   E=38   
+J=88    S=52   E=39   
+J=89    S=52   E=40   
+J=90    S=52   E=41   
+J=91    S=52   E=42   
+J=92    S=45   E=43   
+J=93    S=52   E=44   
+J=94    S=44   E=45   
+J=95    S=46   E=45   
+J=96    S=47   E=45   
+J=97    S=48   E=45   
+J=98    S=49   E=45   
+J=99    S=50   E=45   
+J=100   S=51   E=45   
+J=101   S=52   E=46   
+J=102   S=52   E=47   
+J=103   S=52   E=48   
+J=104   S=52   E=49   
+J=105   S=52   E=50   
+J=106   S=52   E=51   
+J=107   S=68   E=52   
+J=108   S=63   E=53   
+J=109   S=63   E=54   
+J=110   S=63   E=55   
+J=111   S=63   E=56   
+J=112   S=63   E=57   
+J=113   S=63   E=58   
+J=114   S=63   E=59   
+J=115   S=63   E=60   
+J=116   S=63   E=61   
+J=117   S=68   E=62   
+J=118   S=62   E=63   
+J=119   S=64   E=63   
+J=120   S=66   E=63   
+J=121   S=67   E=63   
+J=122   S=65   E=64   
+J=123   S=68   E=65   
+J=124   S=68   E=66   
+J=125   S=68   E=67   
+J=126   S=70   E=68   
+J=127   S=0    E=69   
